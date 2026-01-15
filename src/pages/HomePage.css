@@ -1,0 +1,13 @@
+.home-page {
+  text-align: center;
+}
+
+.home-title {
+  margin-bottom: var(--spacing-xl);
+}
+
+.home-subtitle {
+  color: var(--text-secondary);
+  font-size: 1.125rem;
+  margin-top: var(--spacing-sm);
+}
